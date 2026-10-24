@@ -32,7 +32,7 @@ Installation & Execution
 Option 1: Clone the Repository
 
 Bash
-git clone https://github.com/your-username/a90-ransom-game.git
+git clone https://github.com/jemtheboi235-dot/Ransome/commits/Ransom
 cd a90-ransom-game
 python a90_hunt.py
 Option 2: Direct Download
